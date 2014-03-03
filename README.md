@@ -248,7 +248,7 @@ To use Node.js you need to have a decent understanding of JavaScript language.
 
 ### Who to Follow
 
-- [TJ Holowachuk](https://github.com/visionmedia) - express, Jade, Mocha, Stylus
+- [TJ Holowaychuk](https://github.com/visionmedia) - express, Jade, Mocha, Stylus
 - [Isaac Z. Schlueter](https://github.com/isaacs) - maintainer of Node.js / NPM
 - [Mikeal Rogers](https://github.com/mikeal) - Request
 - [James Haliday "substack"](https://github.com/substack) - Browserify, dnode, Optimist
